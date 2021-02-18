@@ -1,0 +1,13 @@
+D:\DocumentosDeProgramacao\Programacao\back\c#\restaurante-horario2\restaurant\restaurant\bin\Debug\netcoreapp3.1\restaurant.exe
+D:\DocumentosDeProgramacao\Programacao\back\c#\restaurante-horario2\restaurant\restaurant\bin\Debug\netcoreapp3.1\restaurant.deps.json
+D:\DocumentosDeProgramacao\Programacao\back\c#\restaurante-horario2\restaurant\restaurant\bin\Debug\netcoreapp3.1\restaurant.runtimeconfig.json
+D:\DocumentosDeProgramacao\Programacao\back\c#\restaurante-horario2\restaurant\restaurant\bin\Debug\netcoreapp3.1\restaurant.runtimeconfig.dev.json
+D:\DocumentosDeProgramacao\Programacao\back\c#\restaurante-horario2\restaurant\restaurant\bin\Debug\netcoreapp3.1\restaurant.dll
+D:\DocumentosDeProgramacao\Programacao\back\c#\restaurante-horario2\restaurant\restaurant\bin\Debug\netcoreapp3.1\restaurant.pdb
+D:\DocumentosDeProgramacao\Programacao\back\c#\restaurante-horario2\restaurant\restaurant\obj\Debug\netcoreapp3.1\restaurant.csprojAssemblyReference.cache
+D:\DocumentosDeProgramacao\Programacao\back\c#\restaurante-horario2\restaurant\restaurant\obj\Debug\netcoreapp3.1\restaurant.AssemblyInfoInputs.cache
+D:\DocumentosDeProgramacao\Programacao\back\c#\restaurante-horario2\restaurant\restaurant\obj\Debug\netcoreapp3.1\restaurant.AssemblyInfo.cs
+D:\DocumentosDeProgramacao\Programacao\back\c#\restaurante-horario2\restaurant\restaurant\obj\Debug\netcoreapp3.1\restaurant.csproj.CoreCompileInputs.cache
+D:\DocumentosDeProgramacao\Programacao\back\c#\restaurante-horario2\restaurant\restaurant\obj\Debug\netcoreapp3.1\restaurant.dll
+D:\DocumentosDeProgramacao\Programacao\back\c#\restaurante-horario2\restaurant\restaurant\obj\Debug\netcoreapp3.1\restaurant.pdb
+D:\DocumentosDeProgramacao\Programacao\back\c#\restaurante-horario2\restaurant\restaurant\obj\Debug\netcoreapp3.1\restaurant.genruntimeconfig.cache
